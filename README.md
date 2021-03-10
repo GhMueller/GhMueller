@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Gusthavo and I’m currently studying Software Engineering at Católica de Santa Catarina, at the moment I'm trying to get better at programing and tecnology area.
+
+### INFO:
+
+· My contact: gustha.mueller@gmail.com
