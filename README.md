@@ -21,4 +21,6 @@ Hi, I'm Gusthavo and I’m currently studying Software Engineering at Católica 
 
 · I enjoy games and geek culture
 · I draw in my free time
-· My contact: gustha.mueller@gmail.com
+· My contacts: 
+ - gustha.mueller@gmail.com
+ - linkedin.com/in/gusthavomueller/
